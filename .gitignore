@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 #testing
-validation_dataframe.html
+data_test_with_visualizer.json
